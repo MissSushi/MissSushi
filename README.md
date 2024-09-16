@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Melanie Six</h1>
-<h3 align="center">Still figuring everything out, but on my way to greatness</h3>
+<h3 align="center">Still figuring everything out, but I'm on my way to achieve greatness</h3>
 
 - 🔭 I’m currently working on [react-online-shop](https://github.com/MissSushi/react-online-shop)
 
