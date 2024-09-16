@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Melanie Six</h1>
+<h1 align="center">Hi 👋, I'm Melanie</h1>
 <h3 align="center">What I particularly like about web development is the combination 
 from creativity, technology and the possibility through my code 
 to create solutions that support people in their everyday lives.</h3>
