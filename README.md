@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Melanie Six</h1>
-<h3 align="center">Still figuring everything out, but I'm on my way to achieve greatness</h3>
+<h3 align="center">What I particularly like about web development is the combination 
+from creativity, technology and the possibility through my code 
+To create solutions that support people in their everyday lives.</h3>
 
 - 🔭 I’m currently working on [react-online-shop](https://github.com/MissSushi/react-online-shop)
 
